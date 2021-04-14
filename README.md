@@ -17,6 +17,6 @@ To try the extension you must do the following:
 <i>OBS! It is NOT the main folder from Github, but the folder inside that folder you must choose</i>
 
 <b>6. Now the extension should appear in the panel</b><br />
-<i>Remember to active it in the lower right corner of the extension</i>
+<i>Remember to activate it in the lower right corner of the extension</i>
 
 <b>7. You're now ready to try it out on any website you wish!</b>
